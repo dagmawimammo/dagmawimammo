@@ -7,7 +7,7 @@ Pre ai developer
 
 Portfolio: [dag-ma.dev](https://dag-ma.vercel.app)
 
-### 🛠️ Core stack
+### Stack
  
 `JavaScript` · `TypeScript` · `Python` · `Go` - `React` · `Next.js` · `Node.js` · `Express` · `Tailwind CSS` -  `PostgreSQL` · `Supabase` · `MongoDB` · `Prisma` - `LangChain` · `LangGraph` · `PyTorch`
 
