@@ -5,7 +5,7 @@
 <!-- <h1 align="center">Dagmawi </h1> -->
 Pre ai developer
 
-Portfolio: [dag.dev](https://dag-ma.vercel.app)
+Portfolio: [dag-ma.dev](https://dag-ma.vercel.app)
 
 ### 🛠️ Core stack
  
