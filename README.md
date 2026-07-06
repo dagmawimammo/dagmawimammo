@@ -5,6 +5,8 @@
 <!-- <h1 align="center">Dagmawi </h1> -->
 Pre ai developer
 
+Portfolio: [dag.dev](https://dag-ma.vercel.app)
+
 ### 🛠️ Core stack
  
 `JavaScript` · `TypeScript` · `Python` · `Go` - `React` · `Next.js` · `Node.js` · `Express` · `Tailwind CSS` -  `PostgreSQL` · `Supabase` · `MongoDB` · `Prisma` - `LangChain` · `LangGraph` · `PyTorch`
