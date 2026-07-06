@@ -1,10 +1,9 @@
 <h1 align="center">Hi, I'm Dagmawi 👋</h1>
 <h3 align="center">Founding Engineer & Co-Founder — building SaaS for the Ethiopian market</h3>
 
-<p align="center">
-  <a href="https://dag-ma.vercel.app"><img src="https://img.shields.io/badge/Portfolio-dagmawi.dev-black?style=flat-square" /></a>
-  <a href="https://twitter.com/dagmawimammo"><img src="https://img.shields.io/badge/X-@dagmawimammo-black?style=flat-square&logo=x" /></a>
-</p>
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=dagmawimammo&color=brightgreen&style=flat-square)
 
 ---
 
