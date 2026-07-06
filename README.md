@@ -8,21 +8,11 @@
 
 ---
 
-### 🚀 What I'm building
-
-- **[Velo](https://github.com/dagmawimammo)** *(formerly InvenSync)* — a multi-tenant, AI-powered inventory & sales management platform for retail: POS, stock tracking, debt management, and real-time profit visibility. Currently in beta with pilot shops across Ethiopia.
-- **Tirf** — a web-based ERP product, co-founded and built alongside Velo.
-- **Cheq-U** — a POS and venue management SaaS purpose-built for coffee shops.
-
 ### 🛠️ Core stack
  
 `JavaScript` · `TypeScript` · `Python` · `Go` - `React` · `Next.js` · `Node.js` · `Express` · `Tailwind CSS` -  `PostgreSQL` · `Supabase` · `MongoDB` · `Prisma` - `LangChain` · `LangGraph` · `PyTorch`
 
-### 📌 Currently
 
-- Shipping Velo's multi-tenant beta and preparing a **YC Fall 2026** application
-- Building out Cheq-U's admin portal (Dashboard, POS, Menu, Expenses, Reports, Staff)
-- Exploring fully-funded international Master's programs in CS
 
 ### 📫 Reach me
 
