@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Dagmawi 👋</h1>
-<h3 align="center">Founding Engineer & Co-Founder — building SaaS for the Ethiopian market</h3>
+<h1 align="center">Dagmawi </h1>
+<h3 align="center"></h3>
 
 
 
