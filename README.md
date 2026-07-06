@@ -15,8 +15,14 @@
 - **Cheq-U** — a POS and venue management SaaS purpose-built for coffee shops.
 
 ### 🛠️ Core stack
-
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Prisma` · `PostgreSQL` / `Supabase` `javascript` `python`  · `go` · `react` · `next.js` · `node.js` · `express` · `mongoDB` · `langchain` · `langgraph` · `pytorch`
+ 
+`JavaScript` · `TypeScript` · `Python` · `Go`
+ 
+`React` · `Next.js` · `Node.js` · `Express` · `Tailwind CSS`
+ 
+`PostgreSQL` · `Supabase` · `MongoDB` · `Prisma`
+ 
+`LangChain` · `LangGraph` · `PyTorch`
 
 ### 📌 Currently
 
