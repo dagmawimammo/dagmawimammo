@@ -16,13 +16,7 @@
 
 ### 🛠️ Core stack
  
-`JavaScript` · `TypeScript` · `Python` · `Go`
- 
-`React` · `Next.js` · `Node.js` · `Express` · `Tailwind CSS`
- 
-`PostgreSQL` · `Supabase` · `MongoDB` · `Prisma`
- 
-`LangChain` · `LangGraph` · `PyTorch`
+`JavaScript` · `TypeScript` · `Python` · `Go` - `React` · `Next.js` · `Node.js` · `Express` · `Tailwind CSS` -  `PostgreSQL` · `Supabase` · `MongoDB` · `Prisma` - `LangChain` · `LangGraph` · `PyTorch`
 
 ### 📌 Currently
 
