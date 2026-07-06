@@ -1,7 +1,7 @@
 <h2 > Minimalist  </h2>
 <h3 align="center"></h3>
 
-![Profile Views](https://komarev.com/ghpvc/?username=dagmawimammo&color=brightgreen&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=dagmawimammo&color=brightgreen&style=flat-square&base=5521)
 <!-- <h1 align="center">Dagmawi </h1> -->
 Pre ai developer
 
