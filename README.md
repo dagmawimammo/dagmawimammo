@@ -10,14 +10,6 @@ Portfolio: [dag-ma.dev](https://dag-ma.vercel.app)
 ### Stack
  
 `JavaScript` · `TypeScript` · `Python` · `Go` - `React` · `Next.js` · `Node.js` · `Express` · `Tailwind CSS` -  `PostgreSQL` · `Supabase` · `MongoDB` · `Prisma` - `LangChain` · `LangGraph` · `PyTorch`
-![Skills](https://skillicons.dev/icons?i=js,ts,py,go)
-
-![Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind)
-
-![Skills](https://skillicons.dev/icons?i=postgres,supabase,mongodb,prisma)
-
-![Skills](https://skillicons.dev/icons?i=pytorch)
-
 
 ### 📫 Reach me
 
