@@ -16,7 +16,7 @@
 
 ### 🛠️ Core stack
 
-`Next.js` · `TypeScript` · `Tailwind CSS` · `Prisma` · `PostgreSQL` / `Supabase`
+`Next.js` · `TypeScript` · `Tailwind CSS` · `Prisma` · `PostgreSQL` / `Supabase` `javascript` `python`  · `go` · `react` · `next.js` · `node.js` · `express` · `mongoDB` · `langchain` · `langgraph` · `pytorch`
 
 ### 📌 Currently
 
