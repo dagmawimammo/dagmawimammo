@@ -16,6 +16,3 @@ Portfolio: [dag-ma.dev](https://dag-ma.vercel.app)
 ### 📫 Reach me
 
 - Email : [Email](dagmawimammo@gmail.com)
-
----
-<p align="center"><i>Building in public, one commit at a time 🇪🇹</i></p>
