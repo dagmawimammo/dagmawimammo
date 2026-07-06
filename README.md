@@ -1,11 +1,11 @@
 <h1 >Dagmawi </h1>
 <h3 align="center"></h3>
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=dagmawimammo&color=brightgreen&style=flat-square)
 <!-- <h1 align="center">Dagmawi </h1> -->
 Pre ai developer
 
-![Profile Views](https://komarev.com/ghpvc/?username=dagmawimammo&color=brightgreen&style=flat-square)
+
 
 ---
 
