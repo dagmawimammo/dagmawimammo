@@ -13,4 +13,4 @@ Portfolio: [dag-ma.dev](https://dag-ma.vercel.app)
 
 ### 📫 Reach me
 
-- [Email](dagmawimammo@gmail.com)
+- [Email](dagmawimamo14@gmail.com)
